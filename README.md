@@ -15,12 +15,13 @@
 1.8.0
 
 ### 下载地址
+https://github.com/Aicksaim/I-am-a-student/releases
 
 ###### 最新测试版
-
+https://github.com/Aicksaim/I-am-a-student/releases/tag/1.8.0-beta2.0
 
 ###### 最新稳定版
-
+https://github.com/Aicksaim/I-am-a-student/releases/tag/1.7.8
 
 ###### 组件中心
-
+https://github.com/Aicksaim/I-am-a-student/releases/tag/module
