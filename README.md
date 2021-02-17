@@ -24,4 +24,4 @@ https://github.com/Aicksaim/I-am-a-student/releases/tag/1.8.0-beta2.0
 https://github.com/Aicksaim/I-am-a-student/releases/tag/1.7.8
 
 ###### 组件中心
-https://github.com/Aicksaim/I-am-a-student/releases/tag/module
+https://github.com/Aicksaim/I-am-a-student/releases/tag/mods
